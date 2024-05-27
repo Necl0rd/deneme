@@ -6,5 +6,6 @@ public class OyunApp
     {
         System.out.println("Bu bir oyun app'idirghjghjghj..");
         System.out.println("branches");
+        System.out.println("branches terminalden");
     }
 }
