@@ -1,4 +1,4 @@
-package Gun1;
+package gun1;
 
 public class OyunApp
 {
@@ -6,5 +6,6 @@ public class OyunApp
     {
         System.out.println("Bu bir oyun app'idirghjghjghj..");
         System.out.println("branches");
+        System.out.println("branches terminalden");
     }
 }
